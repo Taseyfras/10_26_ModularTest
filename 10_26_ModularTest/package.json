@@ -1,0 +1,26 @@
+{
+  "name": "10_26_ModularTest",
+  "version": "1.0.0",
+  "description": "Testing, Modules, Gulp, and package.json",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Taseyfras/10_26_ModularTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taseyfras/10_26_ModularTest/issues"
+  },
+  "homepage": "https://github.com/Taseyfras/10_26_ModularTest",
+  "devDependencies": {
+    "chai": "*",
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.1.3",
+    "jshint": "*",
+    "mocha": "*"
+  }
+}
